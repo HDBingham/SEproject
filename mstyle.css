@@ -1,0 +1,49 @@
+body {
+    background-image: url("images/bgimage.jpg");
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+/* Header */
+#header {
+	width: 900px;
+	height: 60px;
+	margin: 0 auto;
+	background: url(images/img01.jpg) no-repeat left top;
+}
+
+/* Menu */
+
+#menu {
+	float: left;
+	width: 900px;
+	height: 51px;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 20px 0 0 37px;
+	list-style: none;
+	line-height: normal;
+}
+
+#menu li {
+	display: block;
+	float: left;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	margin-right: 7px;
+	padding: 5px 15px 15px 75px;
+	text-decoration: none;
+	font: 15px Georgia, "Times New Roman", Times, serif;
+	color: black;
+}
+
+#menu a:hover { text-decoration: underline; }
+

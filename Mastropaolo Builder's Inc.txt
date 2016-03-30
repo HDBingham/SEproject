@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Mastropaolo Builder's</title>
+</head>
+<body>
+
+<p>Construction</p>
+
+<p>This is where we will put a brief message regarding the theme of the website and what the purpose of the company is.</p>
+
+<p> Our Work</p>
+
+<p> Another location to put information about the company if needed, can replace with a picture if there is not enough
+writing to be used.  Could also use a list of services.
+
+<ul>
+	<li> <b><u>Time</u></b> The job may differ depending on the extent of work needed <b>We will be able to provide
+an estimate as we start up on the work.</b></li>
+	<li><b><u>Payment:</u></b> Depending on the length of the project, the cost will change accordingly.
+We will be able to provide estimates at the start of construction.</li>
+	<li><b><u>Contact:</u></b> There are times when we cannot reach you and need to 
+	leave a message. We may need to call you to inform you of changes that have occurred on your property.</li>
+	</p>
+</ul>	
+	
+<p>Please feel free to contact us and we will be in touch soon!</p>
+
+</body>
+</html>
